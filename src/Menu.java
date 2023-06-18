@@ -18,6 +18,7 @@ public class Menu {
     public void setMenuItems(ArrayList<MenuItem> menuItems){this.menuItems = menuItems;}
 
     public Date getLastUpdated() {return this.lastUpdated;}
+// added a comment
 
     public void setLastUpdated(Date lastUpdated){this.lastUpdated = lastUpdated;}
 
